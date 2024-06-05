@@ -21,7 +21,7 @@ header {
 header a {
   color: #275872;
   text-align: center;
-  padding: 15px;
+  padding: 9px;
   font-size: 30px;
   border-radius: 100px;
   border-style: solid;
@@ -57,3 +57,6 @@ h1 {
   float: left;
 }
 
+main {
+  padding: 50px;
+}
